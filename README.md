@@ -28,7 +28,7 @@ Training Set: Used to train the model on labeled examples.
 Test Set: Used to evaluate model performance on unseen data.
 
 6. Image Augmentation
-   Augmentation techniques (e.g., rotation, flipping, brightness change) are applied to increase dataset diversity and improve model generalization.
+Augmentation techniques (e.g., rotation, flipping, brightness change) are applied to increase dataset diversity and improve model generalization.
 
 7. Model Training
 A convolutional neural network (CNN) is trained using the annotated training data to learn visual patterns associated with various cotton diseases:
